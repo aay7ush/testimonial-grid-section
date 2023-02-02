@@ -12,7 +12,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Testimonials grid section](https://n0tifications-page.netlify.app/)
+- Live Site URL: [Testimonials grid section](https://testimonial-gr1d-section.netlify.app/)
 
 ## Built with
 
